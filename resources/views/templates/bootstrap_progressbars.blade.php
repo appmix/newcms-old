@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>Progress Bar Height</h2>
+  <p>The height of the progress bar is 1rem (16px) by default. Use the CSS height property to change the height:</p>
+  <div class="progress" style="height:10px">
+    <div class="progress-bar" style="width:40%;height:10px"></div>
+  </div>
+  <br>
+  <div class="progress" style="height:20px">
+    <div class="progress-bar" style="width:50%;height:20px"></div>
+  </div>
+  <br>
+  <div class="progress" style="height:30px">
+    <div class="progress-bar" style="width:60%;height:30px"></div>
+  </div>
+</div>
+
+<div class="container">
+  <h2>Progress Bar With Label</h2>
+  <div class="progress">
+    <div class="progress-bar" style="width:70%">70%</div>
+  </div>
+</div>
+
+</body>
+</html>

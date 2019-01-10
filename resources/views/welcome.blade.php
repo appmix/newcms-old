@@ -79,15 +79,68 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Sections
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                  <a href="/template/bootstrap_grid_basic">BS4 Grid Basic</a>
+                  <a href="/template/bootstrap_typography">BS4 Typography</a>
+                  <a href="/template/bootstrap_colors">BS4 Colors</a>
+                  <a href="/template/bootstrap_tables">BS4 Tables</a>
+                  <a href="/template/bootstrap_images">BS4 Images</a>
+                  <a href="/template/bootstrap_jumbotron">BS4 Jumbotron</a>
+                  <a href="/template/bootstrap_alerts">BS4 Alerts</a>
+                  <a href="/template/bootstrap_buttons">BS4 Buttons</a>
+                  <a href="/template/bootstrap_button_groups">BS4 Button Groups</a>
+                  <a href="/template/bootstrap_badges">BS4 Badges</a>
+                  <a href="/template/bootstrap_progressbars">BS4 Progress Bars</a>
+                  <a href="/template/bootstrap_pagination">BS4 Pagination</a>
+                  <a href="/template/bootstrap_list_groups">BS4 List Groups</a>
+                  <a href="/template/bootstrap_cards">BS4 Cards</a>
+                  <a href="/template/bootstrap_dropdowns">BS4 Dropdowns</a>
+                  <a href="/template/bootstrap_collapse">BS4 Collapse</a>
+                  <a href="/template/bootstrap_navs">BS4 Navs</a>
+                  <a href="/template/bootstrap_navbar">BS4 Navbar</a>
+                  <a href="/template/bootstrap_navbar_fixed">BS4 Navbar</a>
+                  <a href="/template/bootstrap_navbar_sticky">BS4 Navbar</a>
+                  <a href="/template/bootstrap_forms">BS4 Forms</a>
+                  <a href="/template/bootstrap_forms_inputs">BS4 Inputs</a>
+                  <a href="/template/bootstrap_forms_input_group">BS4 Input Groups</a>
+                  <a href="/template/bootstrap_forms_custom">BS4 Custom Forms</a>
+                  <a href="/template/bootstrap_carousel">BS4 Carousel</a>
+                  <a href="/template/bootstrap_modal">BS4 Modal</a>
+                  <a href="/template/bootstrap_tooltip">BS4 Tooltip</a>
+                  <a href="/template/bootstrap_popover">BS4 Popover</a>
+                  <a href="/template/bootstrap_scrollspy">BS4 Scrollspy</a>
+                  <a href="/template/bootstrap_utilities">BS4 Utilities</a>
+                  <a href="/template/bootstrap_flex">BS4 Flex</a>
+                  <a href="/template/bootstrap_media_objects">BS4 Media Objects</a>
+                  <a href="/template/bootstrap_filters">BS4 Filters</a>
+                  <br>
+
+                  <h2 class="left">Bootstrap 4 Grid</h2>
+                  <a href="/template/bootstrap_grid_system">BS4 Grid System</a>
+                  <a href="/template/bootstrap_grid_stacked_to_horizontal">BS4 Stacked/Horizontal</a>
+                  <a href="/template/bootstrap_grid_xsmall">BS4 Grid XSmall</a>
+                  <a href="/template/bootstrap_grid_small">BS4 Grid Small</a>
+                  <a href="/template/bootstrap_grid_medium">BS4 Grid Medium</a>
+                  <a href="/template/bootstrap_grid_large">BS4 Grid Large</a>
+                  <a href="/template/bootstrap_grid_xlarge">BS4 Grid XLarge</a>
+                  <a href="/template/bootstrap_grid_examples">BS4 Grid Examples</a>
+                  <br>
+
+                  <h2>Bootstrap 4 Ref</h2>
+                  <a href="/template/bootstrap_ref_all_classes">All Classes</a>
+                  <a href="/template/bootstrap_ref_js_alert">JS Alert</a>
+                  <a href="/template/bootstrap_ref_js_button">JS Button</a>
+                  <a href="/template/bootstrap_ref_js_carousel">JS Carousel</a>
+                  <a href="/template/bootstrap_ref_js_collapse">JS Collapse</a>
+                  <a href="/template/bootstrap_ref_js_dropdown">JS Dropdown</a>
+                  <a href="/template/bootstrap_ref_js_modal">JS Modal</a>
+                  <a href="/template/bootstrap_ref_js_popover">JS Popover</a>
+                  <a href="/template/bootstrap_ref_js_scrollspy">JS Scrollspy</a>
+                  <a href="/template/bootstrap_ref_js_tab">JS Tab</a>
+                  <a href="/template/bootstrap_ref_js_tooltip">JS Tooltip</a>
                 </div>
             </div>
         </div>
